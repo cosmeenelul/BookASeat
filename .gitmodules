@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ITSSBackToSchool/seat-booking-backend.git
+	branch = cosmin-gheorghe
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ITSSBackToSchool/echipa-3-frontend.git
+	branch = main
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/ITSSBackToSchool/echipa-3-mobile.git
+	branch = main
