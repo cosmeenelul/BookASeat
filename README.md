@@ -1,6 +1,6 @@
-# 🪑 BookASeat – Aplicație Web si Mobile de Rezervare a locurilor la birou si a salilor de conferinta
+# 🪑 BookYuurSeat – Aplicație Web si Mobile de Rezervare a locurilor la birou si a salilor de conferinta
 
-Seat Booking este o aplicație modernă care ajută companiile să gestioneze rezervările de locuri și săli, să ofere informații despre disponibilitatea acestora și să ofere date utile despre trafic și vreme pentru utilizatori.  
+BookYourSeat este o aplicație modernă care ajută companiile să gestioneze rezervările de locuri și săli, să ofere informații despre disponibilitatea acestora și să ofere date utile despre trafic și vreme pentru utilizatori.  
 
 ## 🎯 Scopul Proiectului
 Să oferim o soluție modernă și accesibilă pentru companiile care folosesc modelul hybrid work și vor să optimizeze utilizarea spațiului de birou care le ofera si informatii rapide despre trafic si meteo.
