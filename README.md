@@ -50,7 +50,8 @@ Aplicația este structurată pe trei componente: **Backend**, **Frontend** și *
 ## ✨ Ce poate face aplicația
 
 ### 📌 Gestionarea rezervărilor
-- Utilizatorii pot rezerva **locuri individuale** sau **săli întregi** pentru anumite intervale de timp.  
+- Utilizatorii pot rezerva **locuri individuale** sau **săli întregi** pentru anumite intervale de timp sau zile intregi.
+- Locurile la birou si camerele de conferinta pot fi filtrate in functie de cladire si etaj.  
 - Rezervările pot fi vizualizate după utilizator sau status și pot fi anulate dacă este necesar.
 
 ### 🏢 Gestionarea locurilor și sălilor
