@@ -9,7 +9,7 @@ Să oferim o soluție modernă și accesibilă pentru companiile care folosesc m
 ![Screenshot 1](assets/mobile-home-1.jpg)
 ![Screenshot 1](assets/mobile-home-2.jpg)
 ![Screenshot 1](assets/mobile-office-1.jpg)
-![Screenshot 1](assets/mobile-office-2.jpg)
+![Screenshot 1](assets/monile-office-2.jpg)
 ![Screenshot 1](assets/mobile-office-3.jpg)
 ![Screenshot 1](assets/mobile-conf-1.jpg)
 ![Screenshot 1](assets/mobile-conf-2.jpg)
