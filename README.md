@@ -6,7 +6,7 @@ Seat Booking este o aplicație modernă care ajută companiile să gestioneze re
 Să oferim o soluție modernă și accesibilă pentru companiile care folosesc modelul hybrid work și vor să optimizeze utilizarea spațiului de birou.
 
 ## 📸 Preview
-*(Screenshots / GIF demo vor fi adăugate în curând)*
+![Screenshot 1](src/assets/mobile-home-1.jpg)
 
 Aplicația este structurată pe trei componente: **Backend**, **Frontend** și **Mobile**.
 
