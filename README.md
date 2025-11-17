@@ -8,6 +8,30 @@ Să oferim o soluție modernă și accesibilă pentru companiile care folosesc m
 ## 📸 Preview
 ![Screenshot 1](assets/mobile-home-1.jpg)
 ![Screenshot 1](assets/mobile-home-2.jpg)
+![Screenshot 1](assets/mobile-office-1.jpg)
+![Screenshot 1](assets/mobile-office-2.jpg)
+![Screenshot 1](assets/mobile-office-3.jpg)
+![Screenshot 1](assets/mobile-conf-1.jpg)
+![Screenshot 1](assets/mobile-conf-2.jpg)
+![Screenshot 1](assets/mobile-conf-3.jpg)
+![Screenshot 1](assets/mobile-conf-4.jpg)
+![Screenshot 1](assets/mobile-mybookings-1.jpg)
+![Screenshot 1](assets/mobile-mybookings-2.jpg)
+![Screenshot 1](assets/mobile-mybookings-3.jpg)
+![Screenshot 1](assets/mobile-mybookings-4.jpg)
+![Screenshot 1](assets/mobile-traffic.jpg)
+![Screenshot 1](assets/mobile-weather-1.jpg)
+![Screenshot 1](assets/mobile-weather-2.jpg)
+![Screenshot 1](assets/home-web.jpg)
+![Screenshot 1](assets/office-seats-1.jpg)
+![Screenshot 1](assets/office-seats-2.jpg)
+![Screenshot 1](assets/conf-rooms-1.jpg)
+![Screenshot 1](assets/conf-rooms-2.jpg)
+![Screenshot 1](assets/my-bookings-1.jpg)
+![Screenshot 1](assets/my-bookings-2.jpg)
+![Screenshot 1](assets/weather.jpg)
+
+
 Aplicația este structurată pe trei componente: **Backend**, **Frontend** și **Mobile**.
 
 ## 🚀 Tech Stack
