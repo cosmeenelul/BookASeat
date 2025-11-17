@@ -3,7 +3,7 @@
 Seat Booking este o aplicație modernă care ajută companiile să gestioneze rezervările de locuri și săli, să ofere informații despre disponibilitatea acestora și să ofere date utile despre trafic și vreme pentru utilizatori.  
 
 ## 🎯 Scopul Proiectului
-Să oferim o soluție modernă și accesibilă pentru companiile care folosesc modelul hybrid work și vor să optimizeze utilizarea spațiului de birou.
+Să oferim o soluție modernă și accesibilă pentru companiile care folosesc modelul hybrid work și vor să optimizeze utilizarea spațiului de birou care le ofera si informatii rapide despre trafic si meteo.
 
 ## 📸 Preview
 ![Screenshot 1](assets/mobile-home-1.jpg)
@@ -38,7 +38,12 @@ Aplicația este structurată pe trei componente: **Backend**, **Frontend** și *
 - **Backend:** Java, Spring Boot, MySQL
 - **Frontend Web:** Angular
 - **Mobile App:** Flutter
-- **Containerization:** Docker
+- **Containerization:** Docker, Docker Compose
+- **Version Control:** Git, Github
+
+## 🌐 External APIs
+-  Azure Maps Traffic API – real-time traffic incidents & flow data (Microsoft Azure) 
+-  Open-Meteo – weather information
 
 ---
 
