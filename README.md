@@ -7,7 +7,7 @@ Să oferim o soluție modernă și accesibilă pentru companiile care folosesc m
 
 ## 📸 Preview
 ![Screenshot 1](assets/mobile-home-1.jpg)
-
+![Screenshot 1](assets/mobile-home-2.jpg)
 Aplicația este structurată pe trei componente: **Backend**, **Frontend** și **Mobile**.
 
 ## 🚀 Tech Stack
