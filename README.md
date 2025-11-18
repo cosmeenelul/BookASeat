@@ -1,4 +1,4 @@
-# 🪑 BookYuurSeat – Aplicație Web si Mobile de Rezervare a locurilor la birou si a salilor de conferinta
+# 🪑 BookYourSeat – Aplicație Web si Mobile de Rezervare a locurilor la birou si a salilor de conferinta
 
 BookYourSeat este o aplicație modernă care ajută companiile să gestioneze rezervările de locuri și săli, să ofere informații despre disponibilitatea acestora și să ofere date utile despre trafic și vreme pentru utilizatori.  
 
